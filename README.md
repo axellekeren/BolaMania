@@ -3,7 +3,7 @@
 Ini adalah situs web BolaMania yang menyediakan berita terkini seputar dunia sepak bola.
 
 ## Navigasi Cepat
-- [Home](Index.html)
+- [Home](Home.html)
 
 
 ## Tentang BolaMania
